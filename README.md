@@ -10,3 +10,6 @@ It includes features for Maintenance tracking, and user-role-based UI updates.
 - Custom UI using Guna.UI2 controls
 
 Created by Anika Belle B. Caunceran
+
+IM Exercises
+
